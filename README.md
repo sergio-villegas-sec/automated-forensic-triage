@@ -1,4 +1,4 @@
-# Triage Forense Digital — TFM
+# Automated Digital Forensic Triage Tool
 
 Herramienta de triage forense automatizado para **Linux** (Ubuntu, Kali) y **Windows**, desarrollada como parte del Trabajo de Fin de Máster en Ciberseguridad.
 
