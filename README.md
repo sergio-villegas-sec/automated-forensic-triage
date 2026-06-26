@@ -257,3 +257,14 @@ docker run --rm -v $(pwd)/output:/output triage-forense:2.0 \
 - **NIST SP 800-86** — Guide to Integrating Forensic Techniques into Incident Response
 - **SANS FOR508** — Advanced Incident Response, Threat Hunting, and Digital Forensics
 - **Python uv** — https://docs.astral.sh/uv/
+
+---
+
+## Author
+
+**Sergio Villegas**
+
+Master's Degree in Cybersecurity
+
+GitHub:
+https://github.com/sergio-villegas-sec
